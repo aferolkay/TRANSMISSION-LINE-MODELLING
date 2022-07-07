@@ -1,0 +1,12 @@
+Sbase (MVA)
+100
+Vbase (kV)
+154
+Number of circuits
+2
+Number of bundle conductors per phase
+4
+Bundle distance (m)
+4.000000e-01
+Length of the line (km)
+100
